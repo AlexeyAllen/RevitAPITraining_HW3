@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\RevitAPITrainig\RvtAPI_HW3_1_VolumeWalls.dll"</Assembly>
+		<AddInId>A09C18E6-E10D-4F82-967B-9DC91B2F8EDC</AddInId>
+		<FullClassName>RvtAPI_HW3_1_VolumeWalls.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Выбор стен, определение их общего объема</Text>
+	</AddIn>
+</RevitAddIns>

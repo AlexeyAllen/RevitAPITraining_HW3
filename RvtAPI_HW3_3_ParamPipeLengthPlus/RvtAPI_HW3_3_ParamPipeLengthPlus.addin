@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\RevitAPITrainig\RvtAPI_HW3_3_ParamPipeLengthPlus.dll"</Assembly>
+		<AddInId>4B7154CC-B744-476D-A355-53BAFE113D92</AddInId>
+		<FullClassName>RvtAPI_HW3_3_ParamPipeLengthPlus.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>3.3 ЗАПИСЬ ПАРАМЕТРА</Text>
+	</AddIn>
+</RevitAddIns>

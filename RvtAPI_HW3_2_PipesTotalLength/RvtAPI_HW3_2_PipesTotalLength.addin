@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\RevitAPITrainig\RvtAPI_HW3_2_PipesTotalLength.dll"</Assembly>
+		<AddInId>F28E3CF5-2A03-4B66-B7DE-70CFF952274D</AddInId>
+		<FullClassName>RvtAPI_HW3_2_PipesTotalLength.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>3.2 ОБЩАЯ ДЛИНА ТРУБ</Text>
+	</AddIn>
+</RevitAddIns>

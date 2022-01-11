@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RvtAPI_HW3_1_VolumeWalls", "RvtAPI_HW3_1_VolumeWalls\RvtAPI_HW3_1_VolumeWalls.csproj", "{E91DD44D-F996-4D14-8F09-149F5068BC34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RvtAPI_HW3_2_PipesTotalLength", "RvtAPI_HW3_2_PipesTotalLength\RvtAPI_HW3_2_PipesTotalLength.csproj", "{C7860252-DE81-402D-BDA1-CE4EF1A2E263}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RvtAPI_HW3_3_ParamPipeLengthPlus", "RvtAPI_HW3_3_ParamPipeLengthPlus\RvtAPI_HW3_3_ParamPipeLengthPlus.csproj", "{ED28A41C-2B66-49FF-9601-A942CA150ED8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RvtAPI_HW3_4_PipeParam_Diams", "RvtAPI_HW3_4_PipeParam_Diams\RvtAPI_HW3_4_PipeParam_Diams.csproj", "{4EE8D56E-4DF8-4448-89E3-075E6E34A888}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E91DD44D-F996-4D14-8F09-149F5068BC34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E91DD44D-F996-4D14-8F09-149F5068BC34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E91DD44D-F996-4D14-8F09-149F5068BC34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E91DD44D-F996-4D14-8F09-149F5068BC34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7860252-DE81-402D-BDA1-CE4EF1A2E263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7860252-DE81-402D-BDA1-CE4EF1A2E263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7860252-DE81-402D-BDA1-CE4EF1A2E263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7860252-DE81-402D-BDA1-CE4EF1A2E263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED28A41C-2B66-49FF-9601-A942CA150ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED28A41C-2B66-49FF-9601-A942CA150ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED28A41C-2B66-49FF-9601-A942CA150ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED28A41C-2B66-49FF-9601-A942CA150ED8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EE8D56E-4DF8-4448-89E3-075E6E34A888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EE8D56E-4DF8-4448-89E3-075E6E34A888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EE8D56E-4DF8-4448-89E3-075E6E34A888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EE8D56E-4DF8-4448-89E3-075E6E34A888}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {156BC5A3-6FAA-481C-AC76-92FB1CFAD4F0}
+	EndGlobalSection
+EndGlobal
